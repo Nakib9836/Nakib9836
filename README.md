@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 NOC Engineer (Senior Engineer) of AIS Company
 ---------------------------------------------
 
-NOC Engineer (Senior Engineer) , we are learning Python for improve my skill.
+NOC Engineer (Senior Engineer) , we are learning Python for improvement my skill.
 
 * 🌍  I'm based in Bangkok, Thiland
 
